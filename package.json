@@ -1,0 +1,23 @@
+{
+  "name": "cbh-take-home-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semslam/cbh-take-home-project.git"
+  },
+  "author": "Ibrahim olanrewaju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semslam/cbh-take-home-project/issues"
+  },
+  "homepage": "https://github.com/semslam/cbh-take-home-project#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
